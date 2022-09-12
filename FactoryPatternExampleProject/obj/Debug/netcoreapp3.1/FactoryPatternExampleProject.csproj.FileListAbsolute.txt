@@ -1,0 +1,14 @@
+D:\Repos\FactoryPatternExample\FactoryPatternExampleProject\bin\Debug\netcoreapp3.1\FactoryPatternExampleProject.exe
+D:\Repos\FactoryPatternExample\FactoryPatternExampleProject\bin\Debug\netcoreapp3.1\FactoryPatternExampleProject.deps.json
+D:\Repos\FactoryPatternExample\FactoryPatternExampleProject\bin\Debug\netcoreapp3.1\FactoryPatternExampleProject.runtimeconfig.json
+D:\Repos\FactoryPatternExample\FactoryPatternExampleProject\bin\Debug\netcoreapp3.1\FactoryPatternExampleProject.runtimeconfig.dev.json
+D:\Repos\FactoryPatternExample\FactoryPatternExampleProject\bin\Debug\netcoreapp3.1\FactoryPatternExampleProject.dll
+D:\Repos\FactoryPatternExample\FactoryPatternExampleProject\bin\Debug\netcoreapp3.1\FactoryPatternExampleProject.pdb
+D:\Repos\FactoryPatternExample\FactoryPatternExampleProject\obj\Debug\netcoreapp3.1\FactoryPatternExampleProject.csproj.AssemblyReference.cache
+D:\Repos\FactoryPatternExample\FactoryPatternExampleProject\obj\Debug\netcoreapp3.1\FactoryPatternExampleProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\FactoryPatternExample\FactoryPatternExampleProject\obj\Debug\netcoreapp3.1\FactoryPatternExampleProject.AssemblyInfoInputs.cache
+D:\Repos\FactoryPatternExample\FactoryPatternExampleProject\obj\Debug\netcoreapp3.1\FactoryPatternExampleProject.AssemblyInfo.cs
+D:\Repos\FactoryPatternExample\FactoryPatternExampleProject\obj\Debug\netcoreapp3.1\FactoryPatternExampleProject.csproj.CoreCompileInputs.cache
+D:\Repos\FactoryPatternExample\FactoryPatternExampleProject\obj\Debug\netcoreapp3.1\FactoryPatternExampleProject.dll
+D:\Repos\FactoryPatternExample\FactoryPatternExampleProject\obj\Debug\netcoreapp3.1\FactoryPatternExampleProject.pdb
+D:\Repos\FactoryPatternExample\FactoryPatternExampleProject\obj\Debug\netcoreapp3.1\FactoryPatternExampleProject.genruntimeconfig.cache
